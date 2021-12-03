@@ -6,4 +6,4 @@
   "Expected Result": "При вводе номера включается ограничение на кол-во символов для мобильных номеров указывается корректная вторая цифра (9) для номеров РФ",
   "Actual Result": "Можно ввести любые символы, не выходит ошибки о некорректном номере телефона",
   "Environment": "Windows 10. Google Chrome v. 95.0.4638.69",
-  "Link": "https://inrared.nimbusweb.me/s/share/6272281/d0cqphnu2uuok81g5ob8"
+  "Link": "https://inrared.nimbusweb.me/s/share/6272281/d0cqphnu2uuok81g5ob8" 
